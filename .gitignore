@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+output.jpg
+input.jpg
+weights/
+
+# Docker
+*.log
+*.pid
+
+# System
+.DS_Store
